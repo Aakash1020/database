@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "Id": 1,
+      "Year": 2000,
+      "Files": 50,
+      "PythonFiles": 100
+    },
+    {
+      "Id": 2,
+      "Year": 2001,
+      "Files": 30,
+      "PythonFiles": 12
+    },
+    {
+      "Id": 3,
+      "Year": 2002,
+      "Files": 23,
+      "PythonFiles": 77
+    },
+    {
+      "Id": 4,
+      "Year": 2003,
+      "Files": 66,
+      "PythonFiles": 46
+    },
+    {
+      "Id": 5,
+      "Year": 2004,
+      "Files": 45,
+      "PythonFiles": 90
+    },
+    {
+      "Id": 6,
+      "Year": 2005,
+      "Files": 10,
+      "PythonFiles": 100
+    },
+    {
+      "Id": 7,
+      "Year": 2006,
+      "Files": 22,
+      "PythonFiles": 53
+    },
+    {
+      "Id": 8,
+      "Year": 2007,
+      "Files": 88,
+      "PythonFiles": 60
+    },
+    {
+      "Id": 9,
+      "Year": 2008,
+      "Files": 50,
+      "PythonFiles": 115
+    },
+    {
+      "Id": 10,
+      "Year": 2009,
+      "Files": 50,
+      "PythonFiles": 115
+    }
+  ],
+  "message": "Successfully! All records has been fetched."
+}
